@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573664062137",
+    "firebase_url": "https://cattlemanagement-d04af-default-rtdb.firebaseio.com",
+    "project_id": "cattlemanagement-d04af",
+    "storage_bucket": "cattlemanagement-d04af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573664062137:android:759098aa1e43896164c968",
+        "android_client_info": {
+          "package_name": "com.app.cattlemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573664062137-uol539rml7c30ucukj44q4bagg7g4b96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZZCCRWKA5gTLSQfwTYQirqJBW76XaRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573664062137-uol539rml7c30ucukj44q4bagg7g4b96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
